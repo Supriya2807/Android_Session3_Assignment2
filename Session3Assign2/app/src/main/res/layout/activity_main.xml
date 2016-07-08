@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.supriyalahade.session3assign2.MainActivity"
+    android:orientation="vertical"
+
+    >
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RED"
+        android:id="@+id/Red_Button"
+        android:background="@color/Red"
+        android:textSize="30dp"
+        android:layout_weight="1"
+
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ORANGE"
+        android:id="@+id/Orange_Button"
+        android:background="@color/Orange"
+        android:textSize="30dp"
+        android:layout_weight="1"
+
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="YELLOW"
+        android:id="@+id/Yellow_Button"
+        android:background="@color/Yellow"
+        android:textSize="30dp"
+        android:layout_weight="1"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GREEN"
+        android:id="@+id/Green_Button"
+        android:background="@color/Green"
+        android:textSize="30dp"
+        android:layout_weight="1"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BLUE"
+        android:id="@+id/Blue_Button"
+        android:background="@color/Blue"
+        android:textSize="30dp"
+        android:layout_weight="1"
+
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INDIGO"
+        android:id="@+id/Indigo_Button"
+        android:background="@color/Indigo"
+        android:textSize="30dp"
+        android:layout_weight="1"
+
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VIOLET"
+        android:id="@+id/Violet_Button"
+        android:background="@color/Violet"
+        android:textSize="30dp"
+        android:layout_weight="1"
+
+
+        />
+
+</LinearLayout>
